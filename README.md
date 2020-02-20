@@ -44,9 +44,3 @@ Follow the coach instructions and good luck!
 
 # CI Trigger Test
 
-# PR
-
-# PR Branch
-
-# Sample Commit
-# commmitting
