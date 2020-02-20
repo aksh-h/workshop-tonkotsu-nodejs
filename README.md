@@ -42,5 +42,4 @@ hgdhd
 Follow the coach instructions and good luck!
 
 
-# CI Trigger Test
 
